@@ -12,7 +12,9 @@ The project aims to simulate and evaluate the performance of a hypothetical port
 
 <h2>Results</h2>
 
-<img src="portifolio_against_nasdaq.png">
+<img src="Resultado-Mes.png">
+<br>
+<img src="Comparacao-Retorno.png">
 
 <h2>Disclaimer</h2>
 This project is purely educational and is not intended as financial advice. The strategy presented here should not be considered a recommendation to buy or sell any securities. Investing in the stock market involves risks, and it is essential to conduct thorough research or consult with a financial advisor before making any investment decision
